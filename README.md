@@ -1,2 +1,2 @@
 # Helix Jump Replica
- Made for 30 minute challenge so there will be bugs
+ Made for 30 minutes challenge so there will be bugs
